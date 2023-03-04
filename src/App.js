@@ -10,7 +10,7 @@ export default function App() {
       <footer>
           This project was coded by{" "}
           <a
-            href="https://www.instragram.com/marielacamposg"
+            href="mailto:marielacampos@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
