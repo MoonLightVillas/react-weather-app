@@ -21,9 +21,9 @@ export default function App() {
           href="https://github.com/MoonLightVillas/react-weather-app"
           target="_blank"
           rel="noopener noreferrer">
-            open-sourced on GitHub
-          </a>{""}
-          and{""}
+            open-sourced on GitHub 
+          </a> {""}
+            and {""}
           <a
           href="https://calm-sunshine-446fa3.netlify.app/"
           target="_blank"
